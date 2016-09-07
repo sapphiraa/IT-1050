@@ -1,0 +1,5 @@
+C:\Users\Becky's\Desktop\Kenneth Files\College Files\IT 1050\Assignment 1\IT 1050 Solution 1\IT 1050 Assignment 1\bin\Debug\IT 1050 Assignment 1.exe.config
+C:\Users\Becky's\Desktop\Kenneth Files\College Files\IT 1050\Assignment 1\IT 1050 Solution 1\IT 1050 Assignment 1\bin\Debug\IT 1050 Assignment 1.exe
+C:\Users\Becky's\Desktop\Kenneth Files\College Files\IT 1050\Assignment 1\IT 1050 Solution 1\IT 1050 Assignment 1\bin\Debug\IT 1050 Assignment 1.pdb
+C:\Users\Becky's\Desktop\Kenneth Files\College Files\IT 1050\Assignment 1\IT 1050 Solution 1\IT 1050 Assignment 1\obj\Debug\IT 1050 Assignment 1.exe
+C:\Users\Becky's\Desktop\Kenneth Files\College Files\IT 1050\Assignment 1\IT 1050 Solution 1\IT 1050 Assignment 1\obj\Debug\IT 1050 Assignment 1.pdb
